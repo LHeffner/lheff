@@ -8,4 +8,4 @@ For those of you who don't know me, I am not a developer. I am a scientist turne
 
 ### Posts
 
- [Post 1](https://github.com/LHeffner/lheff/blob/gh-pages/_posts/2013-04-04-secondpost.md)
+ [Post 1](_posts/2013-04-03-firstpost.md)
