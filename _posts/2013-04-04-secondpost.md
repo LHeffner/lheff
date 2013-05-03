@@ -1,5 +1,5 @@
 ---
-layout: post_page
+layout: index
 title: SecondPostEVER
 ---
 More Sweet Content Here
