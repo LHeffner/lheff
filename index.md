@@ -1,5 +1,5 @@
 ---
-layout: layout
+layout: default
 title: Hello, World!
 ---
 # Welcome to this Practice Repo
