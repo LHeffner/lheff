@@ -1,5 +1,5 @@
 ---
-layout: post_page
+layout: default
 title: Hello, World!
 ---
 # Welcome to this Practice Repo
