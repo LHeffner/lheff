@@ -1,5 +1,5 @@
 ---
-layout: index
+layout: post
 title: My Super Sweet First PostEVER
 ---
 Sweet Content Here
